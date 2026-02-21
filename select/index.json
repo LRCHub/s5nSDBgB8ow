@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Strobo",
+  "base_artist": "illion",
+  "createdAt": "2026-02-21T08:49:50.526772Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Strobo Acceleration",
+      "artist": "Stereolab",
+      "has_synced": false,
+      "path": "select/01_Strobo_Acceleration_Stereolab.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Strobo Acceleration",
+      "artist": "Stereolab",
+      "has_synced": false,
+      "path": "select/02_Strobo_Acceleration_Stereolab.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Strobo Nights",
+      "artist": "livetune feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/03_Strobo_Nights_livetune_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Strobo Pop (Extended Version) - Extended Version",
+      "artist": "Die Atzen",
+      "has_synced": false,
+      "path": "select/04_Strobo_Pop_(Extended_Version)_-_Extended_Version_Die_Atzen.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Strobo",
+      "artist": "Elodie",
+      "has_synced": true,
+      "path": "select/05_Strobo_Elodie.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Partiu (Versão Strobo / Ao Vivo)",
+      "artist": "Marina Lima",
+      "has_synced": true,
+      "path": "select/06_Partiu_(Versão_Strobo___Ao_Vivo)_Marina_Lima.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Partiu (Versão Strobo)",
+      "artist": "Marina Lima",
+      "has_synced": true,
+      "path": "select/07_Partiu_(Versão_Strobo)_Marina_Lima.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Strobo Pop",
+      "artist": "Die Atzen mit Nena",
+      "has_synced": false,
+      "path": "select/08_Strobo_Pop_Die_Atzen_mit_Nena.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Strobo Pop",
+      "artist": "Die Atzen/Nena",
+      "has_synced": false,
+      "path": "select/09_Strobo_Pop_Die_Atzen_Nena.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Strobo Pop",
+      "artist": "Die Atzen mit Nena",
+      "has_synced": true,
+      "path": "select/10_Strobo_Pop_Die_Atzen_mit_Nena.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Strobo Pop",
+      "artist": "Die Atzen Mit Nena",
+      "has_synced": true,
+      "path": "select/11_Strobo_Pop_Die_Atzen_Mit_Nena.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Strobo Pop (Atzen Musik mix)",
+      "artist": "Die Atzen mit Nena",
+      "has_synced": false,
+      "path": "select/12_Strobo_Pop_(Atzen_Musik_mix)_Die_Atzen_mit_Nena.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Strobo Acceleration (demo)",
+      "artist": "Stereolab",
+      "has_synced": true,
+      "path": "select/13_Strobo_Acceleration_(demo)_Stereolab.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Strobo Pop (Atzen Musik mix)",
+      "artist": "Die Atzen",
+      "has_synced": true,
+      "path": "select/14_Strobo_Pop_(Atzen_Musik_mix)_Die_Atzen.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Strobo Pop XXL",
+      "artist": "Die Atzen",
+      "has_synced": true,
+      "path": "select/15_Strobo_Pop_XXL_Die_Atzen.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Strobo (Visual)",
+      "artist": "Elodie",
+      "has_synced": true,
+      "path": "select/16_Strobo_(Visual)_Elodie.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Strobo Acceleration",
+      "artist": "Stereolab",
+      "has_synced": true,
+      "path": "select/17_Strobo_Acceleration_Stereolab.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Strobo Nights",
+      "artist": "Livetune",
+      "has_synced": false,
+      "path": "select/18_Strobo_Nights_Livetune.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Strobo",
+      "artist": "illion",
+      "has_synced": false,
+      "path": "select/pl_01_Strobo_illion.txt"
+    }
+  ]
+}
